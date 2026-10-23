@@ -72,6 +72,7 @@
 * [Numberle](https://dduarte.github.io/numberle/) - Wordle, but with numbers instead of letters.
 * [Numble](https://www.thenumble.app/) - Guess an equation that produces a given result, with the result already shown.
 * [Angle](https://angle.wtf/) - Guess the correct angle in only four tries.
+* [Plain Game](https://plaingame.fun/) - Seven daily guesses: name something close to a target number or estimate an everyday fact.
 
 # Answer categories (English words + category are all legal guesses)
 * [Taylordle](https://www.taylordle.com/) - Answer will be related to Taylor Swift.
